@@ -651,8 +651,8 @@ $$
 | Nom | Rôle principal | GitHub |
 |---|---|---|
 | SORO Doba Issiaka | Théorie : fondements et formulation (sections 2 et 3) | @ |
-| Ming Wei Ang | Théorie : Lagrangien, KKT, dual (section 4) | @ |
-|Matis Boudelier | Code : implémentation et visualisations (section 5) | @ |
+| Matis Boudelier | Théorie : Lagrangien, KKT, dual (section 4) | @ |
+| Ming Wei Ang | Code : implémentation et visualisations (section 5) | @ |
 | Alexandre Hayoun | Expériences et évaluation (section 6) | @ |
 
 
