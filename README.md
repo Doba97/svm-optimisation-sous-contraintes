@@ -52,10 +52,13 @@ $$
 \widehat{R}_n(h) = \frac1n \sum_{i=1}^n \mathbf{1}\{h(x_i) \neq y_i\}.
 $$
 
-On se restreint ici aux **classifieurs linéaires** :
+
+On se restreint ici aux **classificateurs linéaires** :
 
 $$
-h(x) = \operatorname{signe}\big(f(x)\big), \qquad f(x) = w^\top x + b, \quad w \in \mathbb{R}^d\setminus\{0\},\ b \in \mathbb{R}.
+h(x) = \mathrm{sign}\big(f(x)\big),
+\qquad f(x) = w^\top x + b,
+\qquad w \in \mathbb{R}^d \setminus \{0\},\quad b \in \mathbb{R}.
 $$
 
 Deux difficultés motivent le SVM :
