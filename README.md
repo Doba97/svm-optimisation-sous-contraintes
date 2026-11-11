@@ -6,7 +6,7 @@
 
 > Cours : Optimisation appliquée au Machine Learning et au Deep Learning
 
-> **Rendu : 12 novembre 2026**
+> **Rendu : 15 novembre 2026**
 
 
 
