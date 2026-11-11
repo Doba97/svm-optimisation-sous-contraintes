@@ -9,5 +9,7 @@ venv/
 # Données et résultats générés
 data/*
 !data/.gitkeep
+# Figures du projet : autoriser leur publication
+!reports/figures/
 reports/figures/*
-!reports/figures/.gitkeep
+!reports/figures/*.png
