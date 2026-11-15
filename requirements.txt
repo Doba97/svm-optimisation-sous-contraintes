@@ -1,4 +1,4 @@
 ﻿numpy
-cvxpy
 matplotlib
 sklearn
+warnings
